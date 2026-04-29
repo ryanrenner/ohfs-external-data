@@ -1,1 +1,92 @@
-
+{
+  "last_updated": "2026-04-22",
+  "last_updated_raw": "Last changed 04/22/2026",
+  "scraped_at": "2026-04-29T19:44:18.161Z",
+  "source": "https://www.nifa.org/interest-rates",
+  "programs": [
+    {
+      "name": "Military Home",
+      "url": "https://www.nifa.org/homebuyers-renters/military-home",
+      "conventional": {
+        "first": null
+      },
+      "government": {
+        "first": "5.375%"
+      }
+    },
+    {
+      "name": "First Home Targeted",
+      "url": "https://www.nifa.org/homebuyers-renters/first-home",
+      "conventional": {
+        "first": "5.875%"
+      },
+      "government": {
+        "first": "5.375%"
+      }
+    },
+    {
+      "name": "First Home",
+      "url": "https://www.nifa.org/homebuyers-renters/first-home",
+      "conventional": {
+        "first": "6.125%"
+      },
+      "government": {
+        "first": "5.625%"
+      }
+    },
+    {
+      "name": "Homebuyer Assistance (HBA)",
+      "url": "https://www.nifa.org/homebuyers-renters/homebuyer-assistance",
+      "conventional": {
+        "first": "6.375%",
+        "second": "1.000%"
+      },
+      "government": {
+        "first": "5.875%",
+        "second": "1.000%"
+      }
+    },
+    {
+      "name": "Welcome Home",
+      "url": "https://www.nifa.org/homebuyers-renters/welcome-home",
+      "conventional": {
+        "first": "6.750%"
+      },
+      "government": {
+        "first": "6.250%"
+      }
+    },
+    {
+      "name": "Welcome Home Assistance (WHA)",
+      "url": "https://www.nifa.org/homebuyers-renters/welcome-home",
+      "conventional": {
+        "first": "7.000%",
+        "second": "1.000%"
+      },
+      "government": {
+        "first": "6.500%",
+        "second": "1.000%"
+      }
+    },
+    {
+      "name": "Build Home",
+      "url": "https://www.nifa.org/homebuyers-renters/build-home",
+      "conventional": {
+        "first": "Varies"
+      },
+      "government": {
+        "first": "Varies"
+      }
+    },
+    {
+      "name": "Refinance Home",
+      "url": "https://www.nifa.org/homebuyers-renters/refinance-home",
+      "conventional": {
+        "first": "7.500%"
+      },
+      "government": {
+        "first": "7.000%"
+      }
+    }
+  ]
+}
